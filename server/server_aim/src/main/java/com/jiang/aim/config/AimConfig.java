@@ -6,4 +6,5 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 @MapperScan("com.jiang.aim.mapper")
 public class AimConfig {
+
 }
